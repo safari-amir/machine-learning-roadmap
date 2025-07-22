@@ -32,8 +32,9 @@ In each stage of the roadmap, **carefully selected course recommendations** are 
 | **Data Handling & Preprocessing** | You'll need to clean, explore, and prepare data for models. | 🔥 High |
 | **ML Algorithms** | Core of ML: regression, classification, clustering, etc. | 🔥 Very High |
 | **Model Evaluation** | Understand metrics like accuracy, precision, recall, etc. | 🔥 Medium |
-| **Tools & Libraries (NumPy, pandas, scikit-learn)** | Standard libraries that streamline ML development. | 🔥 Medium |
+| **Tools & Libraries (NumPy, pandas, scikit-learn, Git)** | Standard tools and libraries that streamline ML development and version control. | 🔥 Medium |
 | **Projects & Practice** | Applying what you learn helps retain knowledge. | 🔥 High |
+
 
 ---
 
@@ -94,22 +95,18 @@ Here’s a structured learning path that takes you from zero to applying Machine
 
 - **Recommended Courses**:
   - [Machine Learning 101 – Pytopia](https://www.pytopia.ai/courses/machine-learning-101)
-  - [Intro to ML with scikit-learn – DataCamp](https://www.datacamp.com/courses/introduction-to-machine-learning-with-scikit-learn)
-  - [Practical ML in Python – freeCodeCamp](https://www.youtube.com/watch?v=7eh4d6sabA0)
+  - [Machine Learning (2024) – Pytopia](https://www.datacamp.com/courses/introduction-to-machine-learning-with-scikit-learn)
 
 ---
 
 ### 5. 🛠️ Applied Practice
 
 - **Topics**:
-  - Hands-on projects with real datasets
-  - Model evaluation and improvement
-  - Feature engineering and preprocessing pipelines
+  - Hands-on projects with Python
 
 - **Suggested Platforms**:
-  - [Kaggle: Titanic, House Prices, etc.](https://www.kaggle.com/competitions)
-  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
-  - [DrivenData Challenges](https://www.drivendata.org/)
+  - [Project Based Python - Pytopia](https://www.kaggle.com/competitions)
+
 
 ---
 
@@ -118,10 +115,14 @@ Here’s a structured learning path that takes you from zero to applying Machine
 - **Ideas**:
   - End-to-end projects: classification, regression, clustering
   - Document your work on GitHub
-  - Share your portfolio or blog your process
 
 - **Tools**:
-  - [Git & GitHub Basics – freeCodeCamp](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
-  - [Build a ML Portfolio – Medium Guide](https://towardsdatascience.com/building-a-machine-learning-portfolio-80c5a01994f)
+  - [Git & GitHub – Pytopia](https://www.pytopia.ai/courses/git)
 
----
+
+## 📌 Notes
+
+- Practice consistently — learning by doing is key.
+- Start with small steps, and build toward real-world applications.
+- This roadmap is a **suggested learning path**, not a strict rule — feel free to adjust it based on your background and goals.
+- The courses and resources listed are **recommendations**, selected to help you get started faster and stay focused.
