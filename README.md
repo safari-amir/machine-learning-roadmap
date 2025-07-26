@@ -38,26 +38,78 @@ In each stage of the roadmap, **carefully selected course recommendations** are 
 
 ---
 
-## 📚 Study Path / Learning Timeline
+# 📚 Study Path / Learning Timeline
 
 Here’s a structured learning path that takes you from zero to applying Machine Learning in real projects.
 
-### 1. 🐍 Python Programming (Standalone)
+## 1. 🐍 Python Programming (Standalone)
 
-- **Topics**:
-  - Installing Python and setting up a coding environment
-  - Using package managers: `conda`
-  - Python basics: variables, loops, conditionals, functions
-  - Data structures: lists, dictionaries, sets, tuples
-  - **Object-Oriented Programming (classes, objects, inheritance)**
-  - Using Jupyter Notebooks for interactive development
-
-- **Recommended Courses**:
-  - [Python Programming (2023) – Pytopia](https://www.pytopia.ai/courses/python)
-  - [The Complete Python Bootcamp From Zero to Hero in Python – Pierian Training (udemy)](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=MT220725G1)
-
+This roadmap is designed to help you get started with Python, from beginner to advanced concepts.  
+> 💡 **Note:** This plan covers core topics, but Python has much more to explore based on your goals—whether it's data science, web development, automation, or beyond.
 
 ---
+
+## 🔹 Basic Python (Week 1–2)
+
+*Foundational topics to get started with Python.*
+
+### Week 1: Environment Setup & Package Management
+- ✅ Installing Python and setting up a coding environment
+- ✅ Using package managers: `conda`
+
+### Week 2: Python Basics & Data Structures
+- ✅ Python basics: variables, loops, conditionals, functions  
+- ✅ Data structures: lists, dictionaries, sets, tuples  
+
+> **and...** additional basics 
+
+---
+
+## 🔹 Intermediate Python (Week 3–4)
+
+*Build reusable, organized, and object-oriented Python code.*
+
+- ✅ **Object-Oriented Programming (OOP)**  
+  - Classes and objects  
+  - Inheritance, encapsulation, and basic polymorphism  
+
+- ✅ **Modular Programming**  
+  - Writing reusable code with modules  
+  - Using `import`, `from`, and creating custom `.py` modules  
+  - Understanding `__main__` and `__init__.py`
+
+> **and...** additional concepts 
+
+---
+
+## 🔹 Advanced Python (Optional – Week 5+)
+
+*Learn expressive, powerful Python features for more professional development.*
+
+- ✅ **Generators & Iterators**
+  - `yield`, lazy evaluation, custom iterator classes
+
+- ✅ **Decorators**
+  - Using `@decorator`, nested functions, and practical use cases (e.g., logging, validation)
+
+- ✅ **Lambda Functions & Functional Programming**
+  - `lambda`, `map()`, `filter()`, `reduce()`  
+
+- ✅ **Context Managers & the `with` Statement**
+  - Writing custom context managers using `__enter__` and `__exit__`  
+  - Using the `contextlib` module
+
+> **and...** you can go deeper 
+
+---
+
+## 📘 Recommended Courses
+
+- [Python Programming (2023) – Pytopia](https://www.pytopia.ai/courses/python)  
+- [The Complete Python Bootcamp From Zero to Hero in Python – Pierian Training (Udemy)](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=MT220725G1)
+
+---
+
 
 ### 2. 🧮 Math Foundations
 
