@@ -49,23 +49,26 @@ This roadmap is designed to help you get started with Python, from beginner to a
 
 ---
 
-## 🔹 Basic Python (Week 1–2)
+## 🔹 Basic Python (Week 1)
 
 *Foundational topics to get started with Python.*
 
-### Week 1: Environment Setup & Package Management
+### 1. Environment Setup & Package Management
 - ✅ Installing Python and setting up a coding environment
 - ✅ Using package managers: `conda`
+> 🎯 **Make sure to follow this part using the** [**Python Programming (2023) – Pytopia**](https://www.pytopia.ai/courses/python) **course.**
 
-### Week 2: Python Basics & Data Structures
+### 2. Python Basics & Data Structures
 - ✅ Python basics: variables, loops, conditionals, functions  
 - ✅ Data structures: lists, dictionaries, sets, tuples  
 
-> **and...** additional basics 
+> **and...** 
 
----
 
-## 🔹 Intermediate Python (Week 3–4)
+🧠 **After this section, we’ll have a short set of hands-on exercises to reinforce your understanding of the basics.**
+
+
+## 🔹 Intermediate Python (Week 2–3)
 
 *Build reusable, organized, and object-oriented Python code.*
 
@@ -80,9 +83,11 @@ This roadmap is designed to help you get started with Python, from beginner to a
 
 > **and...** additional concepts 
 
+🛠️ **By the end of this section, you’ll work on a small project.**  
+
 ---
 
-## 🔹 Advanced Python (Optional – Week 5+)
+## 🔹 Advanced Python (Optional)
 
 *Learn expressive, powerful Python features for more professional development.*
 
@@ -110,20 +115,46 @@ This roadmap is designed to help you get started with Python, from beginner to a
 
 ---
 
+## 2. 🛠️ Applied Practice (Optional)
 
-### 2. 🧮 Math Foundations
+- **Topics**:
+  - Hands-on projects with Python
+
+- **Suggested Platforms**:
+  - [Project Based Python - Pytopia](https://www.kaggle.com/competitions)
+
+
+---
+
+
+## 3. 🧮 Math Foundations (Week 4)
 
 - **Topics**:
   - Linear algebra (vectors, matrices, dot product)
   - Probability and statistics
   - Descriptive and inferential statistics
 
-- **Recommended Courses**:
-
+## 📘 Recommended Courses
+  - [Linear Algebra](https://drive.google.com/drive/folders/1nemDWYPF-hu5a9HKzvx_Hw9KJ_aSEtNd?usp=sharing)
+  - [Statistics – Pytopia](https://www.pytopia.ai/courses/statistics)
 
 ---
 
-### 3. 📊 Data Handling & Python Libraries
+## 3. 🤖 Core Machine Learning(Week 5-10)
+
+- **Topics**:
+  - Introduction to ML concepts and workflow
+  - Supervised Learning: regression, classification
+  - Unsupervised Learning: clustering, dimensionality reduction
+  - Using scikit-learn for modeling
+
+- **Recommended Courses**:
+  - [Machine Learning 101 – Pytopia](https://www.pytopia.ai/courses/machine-learning-101)
+  - [Machine Learning (2024) – Pytopia](https://www.pytopia.ai/courses/machine-learning-i)
+
+---
+
+## 4. 📊 Data Handling & Python Libraries
 
 - **Topics**:
   - NumPy and pandas for data manipulation
@@ -137,32 +168,10 @@ This roadmap is designed to help you get started with Python, from beginner to a
 
 ---
 
-### 4. 🤖 Core Machine Learning
-
-- **Topics**:
-  - Introduction to ML concepts and workflow
-  - Supervised Learning: regression, classification
-  - Unsupervised Learning: clustering, dimensionality reduction
-  - Using scikit-learn for modeling
-
-- **Recommended Courses**:
-  - [Machine Learning 101 – Pytopia](https://www.pytopia.ai/courses/machine-learning-101)
-  - [Machine Learning (2024) – Pytopia](https://www.datacamp.com/courses/introduction-to-machine-learning-with-scikit-learn)
 
 ---
 
-### 5. 🛠️ Applied Practice
-
-- **Topics**:
-  - Hands-on projects with Python
-
-- **Suggested Platforms**:
-  - [Project Based Python - Pytopia](https://www.kaggle.com/competitions)
-
-
----
-
-### 6. 🎓 Final Projects & Next Steps
+## 5. 🎓 Final Projects & Next Steps
 
 - **Ideas**:
   - End-to-end projects: classification, regression, clustering
